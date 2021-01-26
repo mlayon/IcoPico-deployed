@@ -1,12 +1,13 @@
 # IcoPico
-- Original repo is at: https://github.com/Jen-Hobbs/IcoPico
-- Try it out: https://icopico-bcit.herokuapp.com/
+This repository contains the deployed version of Icopico. For the original repository, check it out [here](https://github.com/Jen-Hobbs/IcoPico).
 
 ## About Icopico
-Icopico is a mobile web app developed as a submission for the BCIT COMP 2930 project course and for Ecocity World Summit 2019. This game aims to game-ify environmentally restorative action by completing daily sustainability tasks. 
+Icopico is a mobile web app developed as a submission for the BCIT COMP 2930 project course and for Ecocity World Summit 2019. 
+
+This game aims to game-ify environmentally restorative action by completing daily sustainability tasks. 
 By completing these tasks, your Icopico pet grows. The shape of your pet reflects the type of sustainability tasks you choose to complete. 
 
-All art assets are drawn and created by our design team.
+All art assets used in the app are created with :heart: by our design team.
 
 ## Technology Used
 - HTML, CSS
