@@ -1,3 +1,4 @@
+![pet](https://github.com/mlayon/icopico-deployed/blob/master/src/images/pets/shinyboi.png)
 # Icopico
 This repository contains the deployed version of Icopico. For the original repository, check it out [here](https://github.com/Jen-Hobbs/IcoPico).
 
